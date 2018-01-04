@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+div.App {
+  margin:auto;
+}
+.orderCard{
+  padding:2em;
+  margin:2em;
+}
